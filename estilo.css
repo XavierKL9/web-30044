@@ -6,12 +6,12 @@
     background-color: black;
 
 }
-box{
+caixa{
     width: 300px;
     background-color: crimson;
     color:whitesmoke;
     padding: 15%;
     border-radius: 10px;
     text-align: center;
-
+    
 }
